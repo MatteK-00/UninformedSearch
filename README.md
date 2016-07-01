@@ -1,2 +1,2 @@
 # UninformedSearch
-Python exercise to study uninformed search strategies implemented by Matteo Capparrucci and Jacopo Castellini on Artificial Inteligence scope
+Python example in order to study the uninformed search strategies  implemented by Matteo Capparrucci and Jacopo Castellini on Artificial Inteligence scope
